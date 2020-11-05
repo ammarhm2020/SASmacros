@@ -14,7 +14,9 @@ filename m13 url "https://raw.githubusercontent.com/ammarhm2020/SASmacros/main/P
 filename m14 url "https://raw.githubusercontent.com/ammarhm2020/SASmacros/main/MULTIPLE_PHREG.sas";		
 filename m15 url "https://raw.githubusercontent.com/ammarhm2020/SASmacros/main/MULTIPLE_LOGREG.sas";	
 filename m16 url "https://raw.githubusercontent.com/ammarhm2020/SASmacros/main/KM_PLOT.sas";			
-filename m17 url "https://raw.githubusercontent.com/ammarhm2020/SASmacros/main/DESCRIPTIVE.sas";		
+filename m17 url "https://raw.githubusercontent.com/ammarhm2020/SASmacros/main/DESCRIPTIVE.sas";	
+filename m16 url "https://raw.githubusercontent.com/ammarhm2020/SASmacros/main/mvmodels_032020_pharmasug.sas";			
+filename m17 url "https://raw.githubusercontent.com/ammarhm2020/SASmacros/main/mvmodels_072020_web.sas";		
 
 
 
